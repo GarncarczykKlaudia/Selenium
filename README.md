@@ -8,19 +8,17 @@
     Warunek wstępny: Uruchomiona przeglądarka. Użytkownik nie jest zalogowany.
 
     Kroki:
-    1. Wejdź na stronę "https://wizzair.com/pl-pl#/"
-    2. Kliknij "ZALOGUJ SIĘ"
-    3. Kliknij "REJESTRACJA"
-    4. Wpisz imię
-    5. Wpisz nazwisko
-    6. Wybierz płeć
-    7. Wprowadź nr telefonu
-    8. Wprowadź niepoprawny e-mail
-    9. Wprowadź hasło
-    10. Wybierz kraj
-    Oczekiwany rezultat:
-    Rejestracja nie powodzi się
-    Użytkownik dostaje informację, że wprowadzony e-mail jest niepoprawny
+  1. Wejdź na stronę "https://www.zalando.pl"
+  2. Najedź na ikonę człowieka
+  3. Kliknij "Jesteś nowym klientem"
+  4. Zaakceptuj proponowane personalizacje
+  5. Wpisz imię
+  6. Wpisz e-mail
+  7. Wprowadź hasło
+  8. Kliknij zarejestruj
+  Oczekiwany rezultat:
+  Rejestracja nie powodzi się
+  Użytkownik dostaje informację, że wypełnienie pola z nazwiskiem jest wymagane.
 
 - Uruchomienie testu
 
